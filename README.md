@@ -1,2 +1,1 @@
-# project_cdn
-Little CDN system for my projects
+# A custom theme for Jellyfin
